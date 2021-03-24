@@ -1,0 +1,11 @@
+.img{
+      width: 50px;
+      height: 50;
+      display: block;
+      background-color: red;
+      line-height: 50px;
+      text-align: center;
+      border-radius: 50%;
+      color: azure;
+      font-size: 18px;
+}
